@@ -9,9 +9,11 @@
     "classnames": "^2.2.6",
     "faker": "^4.1.0",
     "miragejs": "^0.1.35",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "^9.1.0",
+    "react-scripts": "*",
+    "redux": "*",
     "seedrandom": "^3.0.5"
   },
   "scripts": {
